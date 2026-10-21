@@ -6,10 +6,10 @@ The module requires Go 1.23 or later.
 ## Install the preview
 
 ```sh
-go get github.com/sandfi-sh/sandfish-go@main
+go get github.com/sandfi-sh/sandfish-go@v0.1.0
 ```
 
-Use a version tag when one is available. Create an API key at
+Create an API key at
 <https://sandfi.sh/account/api>.
 
 ## Submit and wait

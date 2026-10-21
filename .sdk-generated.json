@@ -242,6 +242,7 @@
     "response.go": "fde890f0dd29c0e938476c1c3928581b956ad9eb4bc1b8b03a288b973ef12077",
     "utils.go": "c4b48015bd499ca8f45f4475780123952e6de56f293adfbf6f730e34c976802f"
   },
+  "format_version": 1,
   "generator_sha256": "1760050094997b9cc790cc1350be095f15da8c08a996b184d3eadc4ccda5e35e",
   "generator_version": "7.26.0",
   "prepare_sha256": "883c3ec05ab88fa96a3332f048dff7325122279a7aa6d6e39ac3852679641139",

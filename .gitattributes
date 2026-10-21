@@ -1,0 +1,7 @@
+/api_*.go linguist-generated=true
+/model_*.go linguist-generated=true
+/client.go linguist-generated=true
+/configuration.go linguist-generated=true
+/response.go linguist-generated=true
+/utils.go linguist-generated=true
+/.sdk-generated.json linguist-generated=true
